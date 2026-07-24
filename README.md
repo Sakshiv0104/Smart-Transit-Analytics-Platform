@@ -26,7 +26,7 @@ This wasn't built from a tutorial, it was built incrementally, one working piece
 
 ![Ingest Pipeline](Screenshots/Ingest_pipeline.png)
 
-More screenshots — Jobs, Catalog Explorer, Genie query history, GitHub integration — available in [`/Screenshots`](Screenshots/)
+More screenshots - Jobs, Catalog Explorer, Genie query history, GitHub integration — available in [`/Screenshots`](Screenshots/)
 
 ## 🧱 Databricks Concepts Used
 
