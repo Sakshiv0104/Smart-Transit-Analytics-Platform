@@ -16,6 +16,17 @@ A production-style Lakehouse pipeline ingesting **live public transit data** fro
 
 This wasn't built from a tutorial, it was built incrementally, one working piece at a time, including a real data bug found mid-project and fixed properly (Session 9), and a real Git/authentication issue diagnosed and resolved (Session 13).
 
+## 📸 Preview
+
+**AI/BI Dashboard**
+
+![Transit Performance Dashboard](Screenshots/Transit%20Performance%20Dashboard%20-%20Page1.png)
+
+**Automated Ingestion Pipeline (Databricks Jobs)**
+
+![Ingest Pipeline](Screenshots/Ingest_pipeline.png)
+
+More screenshots — Jobs, Catalog Explorer, Genie query history, GitHub integration — available in [`/Screenshots`](Screenshots/)
 
 ## 🧱 Databricks Concepts Used
 
